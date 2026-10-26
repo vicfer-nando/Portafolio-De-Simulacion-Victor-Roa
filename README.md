@@ -7,12 +7,10 @@ Repositorio de prácticas de la asignatura **Simulación** (Ciclo 5, Carrera de 
 ```
 .
 ├── Unidad1/
-│   ├── practica01/   # Construcción y simulación computacional de un modelo matemático
-│   ├── practica02/   # Comparación de modelos determinísticos, estocásticos, discretos y continuos
-│   ├── practica03/   # Simulación de un sistema de líneas de espera M/M/1 mediante SimPy
-│   └── practica04/   # Modelo epidemiológico SIR con Python y SimPy
-├── Unidad2/
-├── Unidad3/
+│   ├── Practica - 01/   # Construcción y simulación computacional de un modelo matemático
+│   ├── Practica- 02/   # Comparación de modelos determinísticos, estocásticos, discretos y continuos
+│   ├── Practica - 03/   # Simulación de un sistema de líneas de espera M/M/1 mediante SimPy
+│   └── Practica - 04/   # Modelo epidemiológico SIR con Python y SimPy
 ├── assets/           # Logo y estilo compartidos por los reportes técnicos
 ├── tools/            # build_reports.sh: genera los reportes PDF
 ├── requirements.txt
